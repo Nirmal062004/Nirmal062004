@@ -1,4 +1,3 @@
-# Designing UIs that look simple and code that isn’t.
 # 💫 About Me:
 🔭 I’m currently working on<br>React Native applications and React.js websites<br><br>👯 I’m looking to collaborate on<br>Open-source React, React Native, and full-stack projects<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, backend development, and system design<br><br>💬 Ask me about<br>Fullstack development, UI/UX design, React Native, Git<br><br>⚡ Fun fact<br>State-level gold medalist in Karate, now debugging bugs daily and <br>I optimize UI before I optimize sleep
 
