@@ -100,7 +100,7 @@ while (alive) {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-41da-b2d8-7e0b7dbc19e8.gif" width="600">
 
-**...but it works on my machine**
+**" ...but it works on my machine! "**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:60efff,100:ff00f7&height=120&section=footer" />
 
