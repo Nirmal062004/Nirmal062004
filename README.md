@@ -7,9 +7,7 @@
 ### `< Full Stack Developer />` • `{ Frontend Engineer }` • `⚡ UIUX Designer`
 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Designing+UIs+that+look+simple+and+code+that+isn't.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=800&lines=Designing+UIs+that+look+simple+and+code+that+isn't.)](https://git.io/typing-svg)
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
