@@ -1,15 +1,93 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>React Native applications and React.js websites<br><br>👯 I’m looking to collaborate on<br>Open-source React, React Native, and full-stack projects<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, backend development, and system design<br><br>💬 Ask me about<br>Fullstack development, UI/UX design, React Native, Git<br><br>⚡ Fun fact<br>State-level gold medalist in Karate, now debugging bugs daily and <br>I optimize UI before I optimize sleep
+```markdown
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:60efff,100:ff00f7&height=200&section=header&text=NIRMAL%20ARSADE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<br/>
+### `< Fullstack Developer />` • `{ React Native Specialist }` • `⚡ UI/UX Enthusiast`
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Building+scalable+applications+%F0%9F%9A%80;React+%26+React+Native+Expert+%F0%9F%94%90;Turning+chaos+into+clean+code+%E2%9A%A1;Always+shipping%2C+always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+<br/>
 
+## 🌀 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalarsade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirmal.arsade123@gmail.com) 
+```js
+const nirmal = {
+    location: "India 🇮🇳",
+    role: "Fullstack Developer",
+    focus: ["React Native", "React.js", "UI/UX Design"],
+    building: "React Native apps & React.js websites",
+    learning: ["DSA", "Backend Dev", "System Design"],
+    vibe: "Karate 🥋 & Code ⚡"
+};
+console.log("Always learning, always building 🔥");
+```
+<br clear="right"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nirmal062004&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nirmal062004&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal062004&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 Tech Universe
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,nodejs,tailwind,mongodb,mysql,firebase,aws,gcp,figma,git,vscode,vercel&perline=7" />
+</p>
+
+<div align="center">
+
+**JavaScript** • **TypeScript** • **Python** • **C++** • **React** • **React Native** • **Next.js** • **Node.js**  
+**MongoDB** • **MySQL** • **Firebase** • **AWS** • **Google Cloud** • **FastAPI** • **TailwindCSS**  
+**Figma** • **Framer** • **Canva** • **Git** • **VS Code** • **Vercel** • **Netlify**
+
+</div>
+
+---
+
+## 🎯 Current Mission
+<div align="center">
+
+```diff
++ Building React Native applications & React.js websites
++ Mastering Data Structures & Algorithms
++ Exploring Backend Development & System Design
++ Contributing to Open-source projects
+```
+
+</div>
+
+---
+
+## ⚡ Code Flow
+<div align="center">
+
+```bash
+while (alive) {
+    eat();
+    code();
+    debug();
+    karate(); // 🥋
+    sleep();
+    repeat();
+}
+```
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+<p align="center">
+<a href="https://www.linkedin.com/in/nirmalarsade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nirmal.arsade123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-41da-b2d8-7e0b7dbc19e8.gif" width="600">
+
+**"Code is like humor. When you have to explain it, it's bad."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:60efff,100:ff00f7&height=120&section=footer" />
+</div>
+```
