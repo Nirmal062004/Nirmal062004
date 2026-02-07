@@ -24,7 +24,7 @@
 
 ```js
 const nirmal = {
-    location: "Nasik, Maharashtra 🇮🇳",
+    location: "Maharashtra, India",
     education: "CS & Design",
     role: "Full Stack Developer",
     focus: ["Frontend Engineering", "UIUX", "System Design"],
