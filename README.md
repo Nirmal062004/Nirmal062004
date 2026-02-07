@@ -32,7 +32,7 @@ const nirmal = {
     vibe: "Travel & Code "
 };
 
-console.log("Always learning, always building 🔥");
+console.log("Explore, Learning and Implement ");
 ```
 
 <br clear="right"/>
