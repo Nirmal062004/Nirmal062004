@@ -7,7 +7,9 @@
 ### `< Full Stack Developer />` • `{ Frontend Engineer }` • `⚡ UIUX Designer`
 
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=800&lines=Designing+UIs+that+look+simple+and+code+that+isn't.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=800&lines=Designing+UI's+that+look+simple+and+code+that+isn't.)](https://git.io/typing-svg)
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -98,7 +100,7 @@ while (alive) {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-41da-b2d8-7e0b7dbc19e8.gif" width="600">
 
-**...but works on my machine**
+**...but it works on my machine**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:60efff,100:ff00f7&height=120&section=footer" />
 
