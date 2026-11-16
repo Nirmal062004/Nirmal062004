@@ -6,15 +6,15 @@
 <tr>
 <td valign="middle">
 
-## About
+## About 
 
-**· AI Engineer**
+I'm a B.Tech graduate in Computer Science & Design.
 
-B.Tech graduate in Computer Science & Design, based in India.
+Interested in understanding the mathematics, algorithms and computational ideas behind intelligent systems.
 
-I work where **machine learning meets production backends**: FastAPI services, async pipelines, and models that process video, speech and text. I care about systems that actually run, not demos.
+I enjoy exploring machine learning, computer vision and multimodal AI, experimenting with different approaches and building applications around them.
 
-I'm drawn to the same thing in space films that I like in engineering: a hard problem, a tight system, and no room for sloppy work.
+Particularly interested in the intersection of AI research and practical engineering.
 
 </td>
 <td width="280" align="center"><img src="assets/planet.png" width="270" alt=""/></td>
@@ -23,9 +23,9 @@ I'm drawn to the same thing in space films that I like in engineering: a hard pr
 
 ### Recognition
 
-🏆 **Best Research Paper Award, ICASTM** for **PrepVista**, a multimodal AI system that evaluates interviews across face, voice and language and returns structured feedback.
+🏆 **Best Research Paper Award,** at **ICASTM 2026,** at an **IEEE associated conference,** for **PrepVista**, a multimodal AI system that evaluates interviews across face, voice and language and returns structured feedback.
 
-### Stack
+### Tech Stack
 
 | | |
 |:--|:--|
@@ -38,12 +38,9 @@ I'm drawn to the same thing in space films that I like in engineering: a hard pr
 | **Tools** | `Git` `GitHub` `VS Code` `Postman` `npm` `uv` `Uvicorn` `Linux/Bash` |
 | **Core CS** | `DSA` `OOP` `DBMS` `MVC` `Software Engineering` |
 
-### What I work on
+### Exploratory Interests
 
-**Computer vision** (image and video processing, facial analysis) · **Speech and audio** (recognition, feature extraction) · **NLP** · **Multimodal AI** · **Backend systems** (REST APIs, async services, database design)
+Interested in Bioinformatics, Genetics, Scientific Research and the Application of AI beyond Computer Science.
 
-### Now
-
-Building backend and AI projects, going deeper into how ML systems work internally, and open to backend and AI engineering roles.
 
 <p align="center"><sub>Reach me on <a href="https://linkedin.com/in/nirmalarsade">LinkedIn</a> or at nirmal.arsade123@gmail.com</sub></p>
