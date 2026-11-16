@@ -8,7 +8,7 @@
 
 ## About
 
-**Backend Developer · AI Engineer**
+**· AI Engineer**
 
 B.Tech graduate in Computer Science & Design, based in India.
 
