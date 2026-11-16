@@ -1,7 +1,5 @@
 <img src="assets/hero.png" width="100%" alt="Mathematics, Artificial Intelligence, Ideation and Necessity"/>
 
-<h1 align="center">Nirmal Arsade</h1>
-
 <table>
 <tr>
 <td valign="middle">
