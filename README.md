@@ -43,4 +43,4 @@ Particularly interested in the intersection of AI research and practical enginee
 Interested in Bioinformatics, Genetics, Scientific Research and the Application of AI beyond Computer Science.
 
 
-<p align="center"><sub>Reach me on <a href="https://linkedin.com/in/nirmalarsade">LinkedIn</a> or at nirmal.arsade123@gmail.com</sub></p>
+<p align="center"><sub>Reach me on <a href="https://linkedin.com/in/nirmalarsade">LinkedIn</a> </sub></p>
